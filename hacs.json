@@ -1,7 +1,7 @@
 {
-    "name": "Midea AC LAN",
+    "name": "Taichuan Hub",
     "render_readme": true,
-    "homeassistant": "2022.5",
+    "homeassistant": "2024.4",
     "zip_release": true,
-    "filename": "mieda_ac_lan.zip"
+    "filename": "taichuan_hub.zip"
 }
