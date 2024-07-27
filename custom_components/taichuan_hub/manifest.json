@@ -1,0 +1,13 @@
+{
+  "domain": "taichuan_light",
+  "name": "TaiChuan_Light",
+  "codeowners": ["@xjianfei35"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://git.naszx.xyz:25443/personal/taichuan_light",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://git.naszx.xyz:25443/personal/taichuan_light/issues",
+  "requirements": [],
+  "version": "v1.0.0"
+}
